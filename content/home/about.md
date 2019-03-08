@@ -10,3 +10,4 @@ title = "Biography"
 # This should be the username of a profile in your `content/author/` folder.
 author = "admin"
 +++
+Shuo obtained her PhD degree from Indiana University in 2017. Her PhD research was conducted under the guidance of Prof. Sriraam Natarajan and mainly focuses on machine learning and its application to medical domains, including statistical relational learning, knowledge-based learning, cost-sensitive learning, SRL for sequential events prediction and SRL in hybrid domains.
