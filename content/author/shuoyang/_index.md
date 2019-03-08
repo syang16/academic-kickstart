@@ -78,4 +78,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Shuo obtained her PhD degree from Indiana University in 2017. Her PhD research was conducted under the guidance of Prof. [{name = "Sriraam Natarajan", url="http://utdallas.edu/~sriraam.natarajan/"}] and mainly focuses on machine learning and its application to medical domains, including statistical relational learning, knowledge-based learning, cost-sensitive learning, SRL for sequential events prediction and SRL in hybrid domains.
+Shuo obtained her PhD degree from Indiana University in 2017. Her PhD research was conducted under the guidance of Prof. links = [{name = "Sriraam Natarajan", url="http://utdallas.edu/~sriraam.natarajan/"}] and mainly focuses on machine learning and its application to medical domains, including statistical relational learning, knowledge-based learning, cost-sensitive learning, SRL for sequential events prediction and SRL in hybrid domains.
