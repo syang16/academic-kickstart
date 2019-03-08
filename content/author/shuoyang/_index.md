@@ -63,6 +63,11 @@ user_groups = ["Researchers", "Visitors"]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=7kLdgRkAAAAJ&hl=en"
+ 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Shuo_Yang36"
 
 [[social]]
   icon = "github"
