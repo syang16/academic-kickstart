@@ -7,7 +7,7 @@ draft = true
 
 widget = "featured"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = ""
