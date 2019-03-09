@@ -5,6 +5,6 @@ authors = ["Shuo Yang", "Tushar Khot", "Kristian Kersting", "Sriraam Natarajan"]
 publication_types = ["1"]
 abstract = ""
 featured = false
-publication = "*Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence*"
+publication = "*Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, AAAI 2016*"
 +++
 
