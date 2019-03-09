@@ -1,6 +1,6 @@
 +++
 title = " Modeling Heart Procedures from EHRs: An Application of Exponential Families"
-date = 2017-01-01
+date = 2017-11-01
 authors = ["Shuo Yang", "Fabian Hadiji", "Kristian Kersting", "Shaun Grannis", "Sriraam Natarajan"]
 publication_types = ["1"]
 abstract = ""
