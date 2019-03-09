@@ -5,7 +5,7 @@ authors = ["Shuo Yang", "Fabian Hadiji", "Kristian Kersting", "Shaun Grannis", "
 publication_types = ["1"]
 abstract = ""
 featured = false
-publication = "*IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM), 2017.*"
+publication = "*IEEE International Conference on Bioinformatics and Biomedicine, IEEE BIBM 2017*"
 doi = "10.1109/BIBM.2017.8217696"
 +++
 
