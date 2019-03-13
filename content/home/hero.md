@@ -4,7 +4,7 @@ widget = "hero"  # Do not modify this line!
 active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Shuo Yang"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
