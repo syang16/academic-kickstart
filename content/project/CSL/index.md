@@ -59,6 +59,9 @@ In this project, we consider the problem of incorporating the domain knowledge o
 
 The common approach for dealing with this problem is sampling approach, either sub-sampling of the majority class or over-sampling on the minority class. We proposed a soft margin learning approach on the basis of relational functional gradient boosting . Our approach allows explicit tunning the trade-off between false positive rate and false negative rate during the learning process by including two paramters into the objective function, which control the weights of false positives and false negatives respectively. Learn more about the algorithm.
 
+[header]
+		image = "cid.PNG"
+        
 # <div class="row-fluid spacing-top-bottom">
 		<h1>What domains are applicable?</h1>
 			# <div class="span4">
