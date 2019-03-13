@@ -41,12 +41,31 @@ tags = ["machine-learning","statistical-relational-learning", "cost-sensitive-le
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
 +++
 In this project, we consider the problem of incorporating the domain knowledge on different weights of positive samples and negative samples. One of the motivations is the class-imbalance situation in many relational domains where the classifier boundary could be easily dominated by the majority class and overfitting on its outliers. Hence, it is essential to steer the training process toward focusing more on the minority class by assigning different costs on false positive and false negative samples. Besides the requirement enforced by such data properties, there are also practical demands in certain domains, such as the diagnosis problem in medical domains, the quality checking in manufacturing data, the recommendation prediction in recommender systems, etc.
 
 The common approach for dealing with this problem is sampling approach, either sub-sampling of the majority class or over-sampling on the minority class. We proposed a soft margin learning approach on the basis of relational functional gradient boosting . Our approach allows explicit tunning the trade-off between false positive rate and false negative rate during the learning process by including two paramters into the objective function, which control the weights of false positives and false negatives respectively. Learn more about the algorithm.
 
+<div class="row-fluid spacing-top-bottom">
+		<h1>What domains are applicable?</h1>
+			<div class="span4">
+				<h2><font color="black">Class-Imbalance Domains</font></h2>
+				<img src="img/cid.PNG" width="330" height="300">
+				<p align="justify"><font color="black"> Class-Imbalance is a phenomenal problem in a lot of domains, especially for statistical relational learning problems where the number of the ground substitutions for a logical predicate is exponential in the number of the instances for the logical variables and among them only a few substitutions are true. </font></p>
+			</div>
+			<div class="span4">
+				<h2><font color="black">False Negatives Cost More</font></h2>
+				<img src="img/md.PNG" width="330" height="300">
+				<p class="p-pad", align="justify"><font color="black"> Domains where the cost for false negative prediction is much more than that of the false positive prediction. For example, in medical diagnosis, the false positive prediction may just lead to few more clinical tests while the false negative prediction could cost the patient’s life. </font></p>
+			</div>
+			<div class="span4">
+				<h2><font color="black">False Positives Cost More</font></h2>
+				<img src="img/rs.PNG" width="330" height="300">
+				<p class="p-pad", align="justify"> <font color="black"> Domains where the false positive prediction is more unfavorable. For example, in recommendation systems, one would rather overlook some of the candidate items that could match the users (false negatives) than send out numerous spam emails to the users with inappropriate recommendations (false positives).</font></p>
+			</div>
+		</div>
+    
 <h1>How to use this package?</h1>
 <h2> <font color="black"> The whole package can be downloaded <a href=""> <u>here.</u></a> </font> </h2>. 
 		<p class="p-pad", align="justify"> <font color="black">The package includes the pre-processing code for standard machine learning input data, the Soft-Margin RFGB code and the code for calculating the measurements of evaluating the performance of learning algorithms for class-imbalance problems. </font></p>
