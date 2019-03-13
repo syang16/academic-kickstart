@@ -92,5 +92,5 @@ The parameter <font color="blue"> <b> alpha </b> </font> controls the cost of fa
 	
 <div id="footer-text">
 Use the following citation to acknowledge the contribution made by this package to your research:
-<p>Shuo Yang, Tushar Khot, Kristian Kersting, Gautam Kunapuli, Kris Hauser and Sriraam Natarajan, <a href="contents/SoftMargin.pdf">Learning from Imbalanced Data in Relational Domains: A Soft Margin Approach</a>, International Conference on Data Mining (ICDM), 2014. </p>
+<p>Shuo Yang, Tushar Khot, Kristian Kersting, Gautam Kunapuli, Kris Hauser and Sriraam Natarajan, <a href="content/publication/yang-14/yang-14.pdf">Learning from Imbalanced Data in Relational Domains: A Soft Margin Approach</a>, International Conference on Data Mining (ICDM), 2014. </p>
 
