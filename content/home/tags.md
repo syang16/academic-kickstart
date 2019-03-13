@@ -5,7 +5,7 @@ draft = true
 widget = "tag_cloud"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Services"
+title = "Tags"
 subtitle = ""
 
 # Order that this section will appear in.
