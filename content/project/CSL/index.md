@@ -41,7 +41,7 @@ url_pdf = "https://shuoyang.netlify.com/publication/yang-14/yang-14.pdf"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Right"
 +++
 In this project, we consider the problem of incorporating the domain knowledge on different weights of positive samples and negative samples. One of the motivations is the class-imbalance situation in many relational domains where the classifier boundary could be easily dominated by the majority class and overfitting on its outliers. Hence, it is essential to steer the training process toward focusing more on the minority class by assigning different costs on false positive and false negative samples. Besides the requirement enforced by such data properties, there are also practical demands in certain domains, such as the diagnosis problem in medical domains, the quality checking in manufacturing data, the recommendation prediction in recommender systems, etc.
 
