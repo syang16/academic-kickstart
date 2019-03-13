@@ -24,7 +24,7 @@ tags = ["machine-learning","statistical-relational-learning", "cost-sensitive-le
 #slides = "example-slides"
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "content/publication/yang-14/yang-14.pdf"
 #url_slides = ""
 #url_video = ""
 #url_code = ""
