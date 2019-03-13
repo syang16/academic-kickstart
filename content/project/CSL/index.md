@@ -63,17 +63,17 @@ The common approach for dealing with this problem is sampling approach, either s
 		<h1>What domains are applicable?</h1>
 			<div class="span4">
 				<h2><font color="black">Class-Imbalance Domains</font></h2>
-				<img src="img/cid.PNG" width="330" height="300">
+				<img src="cid.PNG" width="330" height="300">
 				<p align="justify"><font color="black"> Class-Imbalance is a phenomenal problem in a lot of domains, especially for statistical relational learning problems where the number of the ground substitutions for a logical predicate is exponential in the number of the instances for the logical variables and among them only a few substitutions are true. </font></p>
 			</div>
 			<div class="span4">
 				<h2><font color="black">False Negatives Cost More</font></h2>
-				<img src="img/md.PNG" width="330" height="300">
+				<img src="md.PNG" width="330" height="300">
 				<p class="p-pad", align="justify"><font color="black"> Domains where the cost for false negative prediction is much more than that of the false positive prediction. For example, in medical diagnosis, the false positive prediction may just lead to few more clinical tests while the false negative prediction could cost the patient’s life. </font></p>
 			</div>
 			<div class="span4">
 				<h2><font color="black">False Positives Cost More</font></h2>
-				<img src="img/rs.PNG" width="330" height="300">
+				<img src="rs.PNG" width="330" height="300">
 				<p class="p-pad", align="justify"> <font color="black"> Domains where the false positive prediction is more unfavorable. For example, in recommendation systems, one would rather overlook some of the candidate items that could match the users (false negatives) than send out numerous spam emails to the users with inappropriate recommendations (false positives).</font></p>
 			</div>
 		</div>
