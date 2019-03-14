@@ -90,8 +90,8 @@ A sample usage is as below:
 &gt; TestRatio=0.1 </code></pre>
 
 <p class="p-pad", align="justify"> The optional arguments are <font color="blue"><b> Discretize </b></font> and <font color="blue"><b> TestRatio </b></font>.</p> 
-<p class="p-pad", align="justify"> <font color="blue"> Use <b> Discretize </b> if one wants to discretize the continuous-valued variables. There are three options: <b>i.</b> assign categorical values based on the thresholds given as a list; <b>ii. </b> categorize into N classes based on values by specifying ['value', Nclass] ;  <b> iii. </b> discretize into N bins based on sample quantiles by specifying ['quantile', Nclass]. </p>
-<p class="p-pad", align="justify"> <font color="blue"> Use <b> TestRatio </b> to specify how you want to split the data into training and test sets. If not assigned, all the samples will be written in the training data files. </p>
+<p class="p-pad", align="justify"> Use <font color="blue"><b> Discretize </b></font> if one wants to discretize the continuous-valued variables. There are three options: <b>i.</b> assign categorical values based on the thresholds given as a list; <b>ii. </b> categorize into N classes based on values by specifying ['value', Nclass] ;  <b> iii. </b> discretize into N bins based on sample quantiles by specifying ['quantile', Nclass]. </p>
+<p class="p-pad", align="justify"> Use <font color="blue"><b> TestRatio </b></font> to specify how you want to split the data into training and test sets. If not assigned, all the samples will be written in the training data files. </p>
 		
 <h2> <font color="black"> Run Soft-Margin RFGB </font> </h2>
 <p class="p-pad", align="justify"> <font color="black"> Here is a simple example on how to use the  <a href="SoftBoosting.jar"><u>Soft-Margin RFGB code</u></a>.</font></p>
