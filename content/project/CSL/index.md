@@ -97,7 +97,7 @@ A sample usage is as below:
 <h2> <font color="black"> Run Soft-Margin RFGB </font> </h2>
 <p class="p-pad", align="justify"> <font color="black"> Here is a simple example on how to use the  <a href="SoftBoosting.jar"><u>Soft-Margin RFGB code</u></a>.
 <div class="codeblock">
-<div class="blockcontent"><pre><code>$  java -cp SoftBoosting.jar edu.wisc.cs.Boosting.RDN.RunBoostedRDN \                     
+<div class="blockcontent"><pre><code>$  java -cp SoftBoosting.jar edu.wisc.cs.Boosting.RDN.RunBoostedRDN
 &gt; -target num \                                                                                                             
 &gt; -l -train SampleData/OutputDataForSoft-RFGB/HD/train/ \                                                                   
 &gt; -i -test SampleData/OutputDataForSoft-RFGB/HD/test/ \                                                                     
