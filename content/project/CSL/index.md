@@ -43,7 +43,7 @@ url_pdf = "https://shuoyang.netlify.com/publication/yang-14/yang-14.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -58,7 +58,7 @@ url_pdf = "https://shuoyang.netlify.com/publication/yang-14/yang-14.pdf"
 +++
 In this project, we consider the problem of incorporating the domain knowledge on different weights of positive samples and negative samples. One of the motivations is the class-imbalance situation in many relational domains where the classifier boundary could be easily dominated by the majority class and overfitting on its outliers. Hence, it is essential to steer the training process toward focusing more on the minority class by assigning different costs on false positive and false negative samples. Besides the requirement enforced by such data properties, there are also practical demands in certain domains, such as the diagnosis problem in medical domains, the quality checking in manufacturing data, the recommendation prediction in recommender systems, etc.
 
-The common approach for dealing with this problem is sampling approach, either sub-sampling of the majority class or over-sampling on the minority class. We proposed a soft margin learning approach on the basis of relational functional gradient boosting . Our approach allows explicit tunning the trade-off between false positive rate and false negative rate during the learning process by including two paramters into the objective function, which control the weights of false positives and false negatives respectively. Learn more about the algorithm.
+The common approach for dealing with this problem is sampling approach, either sub-sampling of the majority class or over-sampling on the minority class. We proposed a soft margin learning approach on the basis of <a href="http://ftp.cs.wisc.edu/machine-learning/shavlik-group/natarajan.mlj12.pdf"> <font color="black"><u>relational functional gradient boosting </u></font></a>. Our approach allows explicit tunning the trade-off between false positive rate and false negative rate during the learning process by including two paramters into the objective function, which control the weights of false positives and false negatives respectively. <a href="contents/SoftMargin.pdf"> <font color="black"><u>Learn more about the algorithm.</u></font></a>
 
 <div class="row-fluid spacing-top-bottom">
 		<h1>What domains are applicable?</h1>
