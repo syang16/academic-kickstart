@@ -6,14 +6,14 @@ active = true  # Activate this widget? true/false
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 # title = "Cost Sensitive Statistical Relational Learning"
 # subtitle = ""
+  
+# Project title.
+title = "Cost Sensitive Statistical Relational Learning"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
   
-# Project title.
-title = "Cost Sensitive Statistical Relational Learning"
-
 # Date this page was created.
 date = 2019-03-13T00:00:00
 
@@ -79,7 +79,7 @@ The common approach for dealing with this problem is sampling approach, either s
 </div>
     
 <h1>How to use this package?</h1>
-<h2> <font color="black"> The whole package can be downloaded <a href=""> <u>here.</u></a> </font> </h2>. 
+<h2> <font color="black"> The whole package can be downloaded <a href="CostSensitiveLearningPackage.zip"> <u>here.</u></a> </font> </h2>. 
 		<p class="p-pad", align="justify"> <font color="black">The package includes the pre-processing code for standard machine learning input data, the Soft-Margin RFGB code and the code for calculating the measurements of evaluating the performance of learning algorithms for class-imbalance problems. </font></p>
 		
 <h2> <font color="black"> Data Pre-Processing </font> </h2> 
