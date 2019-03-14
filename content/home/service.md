@@ -10,6 +10,6 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 120
 +++
-PC member of IJCAI 2019, PC member of IJCAI 2018, Reviewer for Journal Knowledge-Based System [^1], subreviewer for LOD 2018, reviewer for NIPS 2016
+PC member of IJCAI 2019, PC member of IJCAI 2018, reviewer for Journal Knowledge-Based Systems [^1], reviewer for Journal of Artificial Intelligence Research, subreviewer for LOD 2018, reviewer for NIPS 2016
 
-[^1]: reviewer with outstanding contribution awarded by Knowledge-Based System 2018 <a href="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate.jpg"> Certificate </a>. 
+[^1]: reviewer with outstanding contribution awarded by Knowledge-Based Systems, 2018. <a href="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate.jpg"> Certificate </a> 
