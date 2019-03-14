@@ -1,6 +1,6 @@
 +++
-# widget = "blank"  # Do not modify this line!
-# active = true  # Activate this widget? true/false
+widget = "Portfolio"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 # weight = 15  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -9,7 +9,7 @@
 
 # [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  # columns = "2"
+  # columns = "1"
   
 # Project title.
 title = "Cost Sensitive Statistical Relational Learning"
