@@ -38,7 +38,7 @@ url_pdf = "https://shuoyang.netlify.com/publication/yang-kkn-16/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
