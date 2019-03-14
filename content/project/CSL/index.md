@@ -106,7 +106,7 @@ The parameter <font color="blue"> <b> a </b> </font> (i.e. <font color="blue"> <
 		
 <h2> <font color="black"> Evaluation Measurements </font> </h2>
 <p class="p-pad", align="justify"> <font color="black"> Standard evaluation metrics for the prediction performance include the use of accuracy, Area Under ROC or PR curves (AUC-ROC or AUC-PR), F1 score, etc., which measure accuracy with balanced weight between positive and negative examples. However, in the cost-sensitive learning, the model should identify as many important cases as possible as long as the accuracy on predicting the less importance class stays within a reasonable range. To better evaluate the performance of different algorithms for learning with class-imbalanced data, we employed F-beta measure and weighted AUC-ROC. For F-beta measure, beta controls the importance of Precision and Recall. When beta > 1, F-beta measure is recall dominated, while as 0< beta < 1 F-beta measure is precision dominated. </font></p>
-</div>
 	
-[1^]: Use the following citation to acknowledge the contribution made by this package to your research:
-<p>Shuo Yang, Tushar Khot, Kristian Kersting, Gautam Kunapuli, Kris Hauser and Sriraam Natarajan, <a href="https://starling.utdallas.edu/assets/pdfs/SoftMargin.pdf">Learning from Imbalanced Data in Relational Domains: A Soft Margin Approach</a>, International Conference on Data Mining (ICDM), 2014. </p>
+I have more [^1] to say.
+
+[^1]: Footnote example.
