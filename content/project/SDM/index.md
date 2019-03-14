@@ -31,7 +31,7 @@ tags = ["machine-learning", "dynamic-model", "statistical-relational-learning", 
 #slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://shuoyang.netlify.com/publication/yang-kkn-16/", "https://shuoyang.netlify.com/publication/yang-ktcn-15/"
+url_pdf = "https://shuoyang.netlify.com/publication/yang-kkn-16/"
 #url_slides = ""
 #url_video = ""
 #url_code = ""
