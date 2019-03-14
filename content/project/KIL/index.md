@@ -3,16 +3,12 @@
 # active = true  # Activate this widget? true/false
 # weight = 15  # Order that this section will appear.
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Cost Sensitive Statistical Relational Learning"
-#subtitle = ""
-
 # [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   # columns = "1"
   
 # Project title.
-#title = "Cost Sensitive Statistical Relational Learning"
+title = "Knowledge-intensive Learning"
 
 # Date this page was created.
 date = 2019-03-13T00:00:00
@@ -22,7 +18,7 @@ summary = "In this project, we consider the problem of incorporating the domain 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning","statistical-relational-learning", "cost-sensitive-learning", "class-imbalance"]
+tags = ["machine-learning","Bayesian-network", "knowledge-based-learning", "qualitative-constraints", "causal-independence"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
@@ -36,7 +32,7 @@ tags = ["machine-learning","statistical-relational-learning", "cost-sensitive-le
 #slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://shuoyang.netlify.com/publication/yang-14/yang-14.pdf"
+url_pdf = "https://shuoyang.netlify.com/publication/yang-n-13/yang-n-13.pdf"
 #url_slides = ""
 #url_video = ""
 #url_code = ""
