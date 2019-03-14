@@ -99,7 +99,7 @@ A sample usage is as below:
 &gt; -l -train SampleData/OutputDataForSoft-RFGB/HD/train/ \
 &gt; -i -test SampleData/OutputDataForSoft-RFGB/HD/test/ \
 &gt; -alpha 2 \
-&gt; -beta -1 \</pre></div></div></p>
+&gt; -beta -1 \</code></pre></div></div></p>
 		
 The parameter <font color="blue"> <b> alpha </b> </font> controls the cost of false negative samples while <font color="blue"><b> beta </b></font> controls the cost of false positive samples. When the parameter (alpha or beta) is set positive, it assigns more weights on the miss-classified positive or negative samples, whearas when it is negative, it allows the model to put more tolerance on the the miss-classified positive or negative samples. When they are both zero, it is equivalent to the standard RFGB, i.e. false positive and false negative have uniform cost.
 		
