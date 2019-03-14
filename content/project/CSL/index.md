@@ -69,9 +69,9 @@ The common approach for dealing with this problem is sampling approach, either s
 </code></pre>
 
 <div class="row-fluid spacing-top-bottom">
-		<h1>What domains are applicable?</h1>
+		<h1>What domains are applicable?!!</h1>
 			<div class="span4">
-				<h2><font color="black">Class-Imbalance Domains</font></h2>
+				<h2><font color="black">Class-Imbalanced Domains</font></h2>
         <img src="cid.PNG" width="330" height="300">
 				<p align="justify"><font color="black"> Class-Imbalance is a phenomenal problem in a lot of domains, especially for statistical relational learning problems where the number of the ground substitutions for a logical predicate is exponential in the number of the instances for the logical variables and among them only a few substitutions are true. </font></p>
 			</div>
