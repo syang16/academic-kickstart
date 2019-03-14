@@ -12,4 +12,4 @@ weight = 120
 +++
 PC member of IJCAI 2019, PC member of IJCAI 2018, Reviewer for Knowledge-Based System [^1], subreviewer for LOD 2018, reviewer for NIPS 2016
 
-[^1]: reviewer with outstanding contribution awarded by Knowledge-Based System 2018. 
+[^1]: reviewer with outstanding contribution awarded by Knowledge-Based System 2018 <a href="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate.jpg"> Certificate </a>. 
