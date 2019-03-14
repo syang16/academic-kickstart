@@ -1,5 +1,4 @@
 +++
-draft = true
 
 # Tag Cloud widget.
 widget = "tag_cloud"  # Do not modify this line!
