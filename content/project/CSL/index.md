@@ -72,12 +72,12 @@ The common approach for dealing with this problem is sampling approach, either s
 			</div>
 			<div class="span4">
 				<h2><font color="black">False Negatives Cost More</font></h2>
-				<img src="static/img/md.PNG" width="330" height="300">
+				<img src="md.PNG" width="330" height="300">
 				<p class="p-pad", align="justify"><font color="black"> Domains where the cost for false negative prediction is much more than that of the false positive prediction. For example, in medical diagnosis, the false positive prediction may just lead to few more clinical tests while the false negative prediction could cost the patient’s life. </font></p>
 			</div>
 			<div class="span4">
 				<h2><font color="black">False Positives Cost More</font></h2>
-				<img src="static/img/rs.PNG" width="330" height="300">
+				<img src="rs.PNG" width="330" height="300">
 				<p class="p-pad", align="justify"> <font color="black"> Domains where the false positive prediction is more unfavorable. For example, in recommendation systems, one would rather overlook some of the candidate items that could match the users (false negatives) than send out numerous spam emails to the users with inappropriate recommendations (false positives).</font></p>
 			</div>
 </div>
