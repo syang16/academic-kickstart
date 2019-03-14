@@ -76,6 +76,12 @@ The common approach for dealing with this problem is sampling approach, either s
 </div>
     
 <h1>How to use this package?</h1>
+
+<pre><code>python ConvertData_standard.py filename=PATH/TO/YOUR/DATA/DATA.csv \
+&gt; target=TargetVariable \ 
+&gt; Discretize='feature1':[threshold list],'feature2':['value', Nclass],'feature3' ['quantile',Nclass] \ 
+&gt; TestRatio=0.1 </code></pre>
+
 <h2> <font color="black"> The whole package can be downloaded <a href="CostSensitiveLearningPackage.zip"> <u>here.</u></a> </font> </h2>. 
 		<p class="p-pad", align="justify"> <font color="black">The package includes the pre-processing code for standard machine learning input data, the Soft-Margin RFGB code and the code for calculating the measurements of evaluating the performance of learning algorithms for class-imbalance problems. </font></p>
 		
