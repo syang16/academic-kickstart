@@ -87,7 +87,10 @@ The common approach for dealing with this problem is sampling approach, either s
 <p class="p-pad", align="justify"> <font color="black"> For standard machine learning problems, just download this python function <a href="PreProcess.zip"><u> ConvertData_standard</u></a> to convert the flat table into the input files that Soft-Margin RFGB can take; for relational data sets, please refer to <a href="http://pages.cs.wisc.edu/~tushar/rdnboost/doc.html"><u>Mode Guide</u></a> for more sophisticated designs of logic predicates. </font></p> 
 A sample usage is as below:
 <div class="codeblock">
-<div class="blockcontent"><pre><span class="pycommand">$  python ConvertData_standard.py filename=PATH/TO/YOUR/DATA/DATA.csv \ &gt; target=TargetVariable \ &gt; Discretize='feature1':[threshold list],'feature2':['value', Nclass],'feature3' ['quantile',Nclass] \ &gt; TestRatio=0.1 </pre></div></div>
+<div class="blockcontent"><pre><span class="pycommand">$  python ConvertData_standard.py filename=PATH/TO/YOUR/DATA/DATA.csv \
+&gt; target=TargetVariable \ 
+&gt; Discretize='feature1':[threshold list],'feature2':['value', Nclass],'feature3' ['quantile',Nclass] \ 
+&gt; TestRatio=0.1 </pre></div></div>
 <p class="p-pad", align="justify"> <font color="black"> The optional arguments are <b> Discretize </b> and <b> TestRatio </b>.</p> 
 <p class="p-pad", align="justify"> <font color="black"> Use <b> Discretize </b> if one wants to discretize the continuous-valued variables. There are three options: <b>i.</b> assign categorical values based on the thresholds given as a list; <b>ii. </b> categorize into N classes based on values by specifying ['value', Nclass] ;  <b> iii. </b> discretize into N bins based on sample quantiles by specifying ['quantile', Nclass]. </p>
 <p class="p-pad", align="justify"> <font color="black"> Use <b> TestRatio </b> to specify how you want to split the data into training and test sets. If not assigned, all the samples will be written in the training data files. </p>
