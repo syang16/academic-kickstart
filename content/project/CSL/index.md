@@ -10,9 +10,6 @@
 # Project title.
 title = "Cost Sensitive Statistical Relational Learning"
 
-I have more [^1] to say.
-[^1]: Footnote example.
-
 # Date this page was created.
 date = 2019-03-13T00:00:00
 
