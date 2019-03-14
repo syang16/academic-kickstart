@@ -10,12 +10,6 @@
 # Project title.
 title = "Cost Sensitive Statistical Relational Learning"
 
-
-<h1>Cost Sensitive Statistical Relational Learning [^1]</h1> 
-[^1]: Please use the following citation to acknowledge the contribution made by this package to your research:
-<p>Shuo Yang, Tushar Khot, Kristian Kersting, Gautam Kunapuli, Kris Hauser and Sriraam Natarajan, Learning from Imbalanced Data in Relational Domains: A Soft Margin Approach, International Conference on Data Mining (ICDM), 2014. </p>
-
-
 # Date this page was created.
 date = 2019-03-13T00:00:00
 
