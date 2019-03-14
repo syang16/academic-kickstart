@@ -60,13 +60,6 @@ In this project, we consider the problem of incorporating the domain knowledge o
 
 The common approach for dealing with this problem is sampling approach, either sub-sampling of the majority class or over-sampling on the minority class. We proposed a soft margin learning approach on the basis of <a href="http://ftp.cs.wisc.edu/machine-learning/shavlik-group/natarajan.mlj12.pdf">relational functional gradient boosting</a>. Our approach allows explicit tunning the trade-off between false positive rate and false negative rate during the learning process by including two paramters into the objective function, which control the weights of false positives and false negatives respectively. <a href="https://shuoyang.netlify.com/publication/yang-14/yang-14.pdf"> Learn more about the algorithm.</a> 
 
-<pre><code>## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-</code></pre>
-
 <div class="row-fluid spacing-top-bottom">
 		<h1>What domains are applicable?!!</h1>
 			<div class="span4">
@@ -94,10 +87,7 @@ The common approach for dealing with this problem is sampling approach, either s
 <p class="p-pad", align="justify"> <font color="black"> For standard machine learning problems, just download this python function <a href="PreProcess.zip"><u> ConvertData_standard</u></a> to convert the flat table into the input files that Soft-Margin RFGB can take; for relational data sets, please refer to <a href="http://pages.cs.wisc.edu/~tushar/rdnboost/doc.html"><u>Mode Guide</u></a> for more sophisticated designs of logic predicates. </font></p> 
 A sample usage is as below:
 <div class="codeblock">
-<div class="blockcontent"><pre><span class="pycommand">$  python ConvertData_standard.py filename=PATH/TO/YOUR/DATA/DATA.csv
-&gt; target=TargetVariable \
-&gt; Discretize='feature1':[threshold list],'feature2':['value', Nclass],'feature3':['quantile',Nclass] \
-&gt; TestRatio=0.1 </pre></div></div>
+<div class="blockcontent"><pre><span class="pycommand">$  python ConvertData_standard.py filename=PATH/TO/YOUR/DATA/DATA.csv \ &gt; target=TargetVariable \ &gt; Discretize='feature1':[threshold list],'feature2':['value', Nclass],'feature3' ['quantile',Nclass] \ &gt; TestRatio=0.1 </pre></div></div>
 <p class="p-pad", align="justify"> <font color="black"> The optional arguments are <b> Discretize </b> and <b> TestRatio </b>.</p> 
 <p class="p-pad", align="justify"> <font color="black"> Use <b> Discretize </b> if one wants to discretize the continuous-valued variables. There are three options: <b>i.</b> assign categorical values based on the thresholds given as a list; <b>ii. </b> categorize into N classes based on values by specifying ['value', Nclass] ;  <b> iii. </b> discretize into N bins based on sample quantiles by specifying ['quantile', Nclass]. </p>
 <p class="p-pad", align="justify"> <font color="black"> Use <b> TestRatio </b> to specify how you want to split the data into training and test sets. If not assigned, all the samples will be written in the training data files. </p>
