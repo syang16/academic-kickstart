@@ -10,9 +10,9 @@
 # Project title.
 title = "Cost Sensitive Statistical Relational Learning"
 
-[design]
+# [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+ # columns = "1"
   
 # Date this page was created.
 date = 2019-03-13T00:00:00
