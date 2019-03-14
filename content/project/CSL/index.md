@@ -9,7 +9,7 @@ title = "Cost Sensitive Statistical Relational Learning"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
   
 # Project title.
 # title = "Cost Sensitive Statistical Relational Learning"
