@@ -83,7 +83,7 @@ The common approach for dealing with this problem is sampling approach, either s
 		<p class="p-pad", align="justify"> <font color="black">The package includes the pre-processing code for standard machine learning input data, the Soft-Margin RFGB code and the code for calculating the measurements of evaluating the performance of learning algorithms for class-imbalance problems. </font></p>
 		
 <h2> <font color="black"> Data Pre-Processing </font> </h2> 
-<p class="p-pad", align="justify"> <font color="black"> For standard machine learning problems, just download this python function <a href="code/PreProcess.zip"><u> ConvertData_standard</u></a> to convert the flat table into the input files that Soft-Margin RFGB can take; for relational data sets, please refer to <a href="http://pages.cs.wisc.edu/~tushar/rdnboost/doc.html"><u>Mode Guide</u></a> for more sophisticated designs of logic predicates. </font></p> 
+<p class="p-pad", align="justify"> <font color="black"> For standard machine learning problems, just download this python function <a href="PreProcess.zip"><u> ConvertData_standard</u></a> to convert the flat table into the input files that Soft-Margin RFGB can take; for relational data sets, please refer to <a href="http://pages.cs.wisc.edu/~tushar/rdnboost/doc.html"><u>Mode Guide</u></a> for more sophisticated designs of logic predicates. </font></p> 
 A sample usage is as below:
 <div class="codeblock">
 <div class="blockcontent"><pre><span class="pycommand">$  python ConvertData_standard.py filename=PATH/TO/YOUR/DATA/DATA.csv target=TargetVariable \</span>                                                                   &gt; Discretize='feature1':[threshold list],'feature2':['value', Nclass],'feature3':['quantile',Nclass] \                                                          &gt; TestRatio=0.1 </pre></div></div>
@@ -92,7 +92,7 @@ A sample usage is as below:
 <p class="p-pad", align="justify"> <font color="black"> Use <b> TestRatio </b> to specify how you want to split the data into training and test sets. If not assigned, all the samples will be written in the training data files. </p>
 		
 <h2> <font color="black"> Run Soft-Margin RFGB </font> </h2>
-<p class="p-pad", align="justify"> <font color="black"> Here is a simple example on how to use the  <a href="code/SoftBoosting.jar"><u>Soft-Margin RFGB code</u></a>.
+<p class="p-pad", align="justify"> <font color="black"> Here is a simple example on how to use the  <a href="SoftBoosting.jar"><u>Soft-Margin RFGB code</u></a>.
 <div class="codeblock">
 <div class="blockcontent"><pre>$  java -cp SoftBoosting.jar edu.wisc.cs.Boosting.RDN.RunBoostedRDN \                                                                                            &gt; -target num \                                                                                                                                                 &gt; -l -train SampleData/OutputDataForSoft-RFGB/HD/train/ \                                                                                                      &gt; -i -test SampleData/OutputDataForSoft-RFGB/HD/test/ \                                                                                                        &gt; -alpha 2 \                                                                                                                                                    &gt; -beta -1 \</pre></div></div></p>
 		
