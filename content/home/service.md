@@ -12,7 +12,7 @@ weight = 120
 +++
 <p> PC member of IJCAI 2019 </p>
 <p> PC member of IJCAI 2018 </p>
-<p> reviewer for Journal Knowledge-Based Systems [^1] </p>
+<p> reviewer for Journal Knowledge-Based Systems </p> [^1] 
 <p> reviewer for Journal of Artificial Intelligence Research </p>
 <p> reviewer for NIPS 2016 </p>
 <p> subreviewer for LOD 2018,  AAAI 2016, AISTATS 2016, UAI 2015, ICDM 2015, KDD 2014 </p>
