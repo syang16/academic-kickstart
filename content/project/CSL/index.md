@@ -109,5 +109,5 @@ The parameter <font color="blue"> <b> a </b> </font> (i.e. <font color="blue"> <
 
 More details about the algorithm and parameter settings can be found at <a href="https://shuoyang.netlify.com/publication/yang-14/"> <u>[Yang et al. 2014]</u></a> [^1] .
 
-[^1]: Please use the following citation to acknowledge the contribution made by this package to your research: <br />
+[^1]: Please use the following citation to acknowledge the contribution made by this package to your research:         
 Shuo Yang, Tushar Khot, Kristian Kersting, Gautam Kunapuli, Kris Hauser and Sriraam Natarajan, Learning from Imbalanced Data in Relational Domains: A Soft Margin Approach, International Conference on Data Mining (ICDM), 2014. 
