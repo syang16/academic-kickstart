@@ -10,8 +10,8 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 120
 +++
-PC member of IJCAI 2019
-PC member of IJCAI 2018
+<p> PC member of IJCAI 2019 </p>
+<p> PC member of IJCAI 2018 </p>
 reviewer for Journal Knowledge-Based Systems [^1]
 reviewer for Journal of Artificial Intelligence Research
 subreviewer for LOD 2018 
