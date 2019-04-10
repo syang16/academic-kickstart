@@ -1,7 +1,7 @@
 +++
 
 # Tag Cloud widget.
-widget = "Portfolio"  # Do not modify this line! blank
+widget = "blank"  # Do not modify this line! blank
 active = true  # Activate this widget? true/false
 
 title = "Services"
