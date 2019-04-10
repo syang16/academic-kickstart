@@ -1,7 +1,7 @@
 +++
 
 # Tag Cloud widget.
-widget = "blank"  # Do not modify this line! blank
+widget = "blank"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Services"
@@ -18,5 +18,3 @@ reviewer for NIPS 2016 <br />
 subreviewer for LOD 2018,  AAAI 2016, AISTATS 2016, UAI 2015, ICDM 2015, KDD 2014 <br />
 
 [^1]: reviewer with outstanding contribution awarded by Knowledge-Based Systems, 2018. <a href="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate.jpg"> Certificate </a> 
-
-<img src="certificate.jpg" width="100" height="50">
