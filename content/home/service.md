@@ -20,4 +20,4 @@ weight = 120
 <p id="section1">[1] reviewer with outstanding contribution awarded by Knowledge-Based Systems, 2018. </p>
 #[^1]: reviewer with outstanding contribution awarded by Knowledge-Based Systems, 2018. 
 <img src="certificate.jpg" width="100" height="50">
-<a href="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate.jpg"> Certificate </a> 
+<a href="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate.jpg"> <img src="certificate.jpg" width="100" height="50"> </a> 
