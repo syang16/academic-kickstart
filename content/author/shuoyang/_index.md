@@ -9,11 +9,11 @@ authors = ["shuoyang"]
 superuser = true
 
 # Role/position
-role = "Machine Learning Scientist"
+role = "Machine Learning Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Amobee Inc.", url = "https://www.amobee.com/" } ]
+organizations = [ { name = "Linkedin", url = "https://www.linkedin.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include machine learning and its application in health and other real-world problems."
