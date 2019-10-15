@@ -15,8 +15,8 @@ PC member of ICLR 2020 <br />
 PC member of IJCAI 2019 <br />
 PC member of IJCAI 2018 <br />
 reviewer for Journal Knowledge-Based Systems  [^1] <br />
-<img src="certificate_rsz.png" width="379" height="268">
-test <br />
+<img src="certificate_rsz.png" alt="Certificate">
+test! <br />
 reviewer for Journal of Artificial Intelligence Research <br />
 reviewer for NIPS 2016 <br />
 subreviewer for LOD 2018,  AAAI 2016, AISTATS 2016, UAI 2015, ICDM 2015, KDD 2014 <br />
