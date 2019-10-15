@@ -18,7 +18,7 @@ reviewer for Journal Knowledge-Based Systems  [^1] <br />
 <html>
 <body>
 <img src="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate_rsz.png" alt="Certificate" width="379" height="268">
-test! <br />
+test!! <br />
 </body>
 </html>
 reviewer for Journal of Artificial Intelligence Research <br />
