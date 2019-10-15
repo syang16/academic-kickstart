@@ -27,6 +27,9 @@ p    {color: red;}
 
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
+<div>
+<img src="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate_rsz.png" alt="Certificate" style="width:auto;">
+test !! <br />
 
 </body>
 reviewer for Journal of Artificial Intelligence Research <br />
