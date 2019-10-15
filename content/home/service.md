@@ -16,22 +16,6 @@ PC member of SDM 2020 <br />
 PC member of IJCAI 2019 <br />
 PC member of IJCAI 2018 <br />
 reviewer for Journal Knowledge-Based Systems  [^1] <br />
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-<div>
-<img src="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate_rsz.png" alt="Certificate" style="width:auto;">
-test !! <br />
-
-</body>
 reviewer for Journal of Artificial Intelligence Research <br />
 reviewer for NIPS 2016 <br />
 subreviewer for LOD 2018,  AAAI 2016, AISTATS 2016, UAI 2015, ICDM 2015, KDD 2014 <br />
