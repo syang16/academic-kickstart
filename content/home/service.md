@@ -16,10 +16,10 @@ PC member of IJCAI 2019 <br />
 PC member of IJCAI 2018 <br />
 reviewer for Journal Knowledge-Based Systems  [^1] <br />
 <html>
-<body>
-<img src="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate_rsz.png" alt="Certificate" width="379" height="268">
-test!! <br />
-</body>
+<picture>
+<img src="https://github.com/syang16/academic-kickstart/blob/master/static/img/certificate_rsz.png" alt="Certificate" style="width:auto;">
+test!!!<br />
+</picture>
 </html>
 reviewer for Journal of Artificial Intelligence Research <br />
 reviewer for NIPS 2016 <br />
