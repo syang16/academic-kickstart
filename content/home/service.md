@@ -12,6 +12,7 @@ weight = 120
 +++
 PC member of AAAI 2020 <br />
 PC member of ICLR 2020 <br />
+PC member of SDM 2020 <br />
 PC member of IJCAI 2019 <br />
 PC member of IJCAI 2018 <br />
 reviewer for Journal Knowledge-Based Systems  [^1] <br />
