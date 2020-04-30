@@ -82,7 +82,7 @@ The common approach for dealing with this problem is sampling approach, either s
 		
 <h2> <font color="black"> Data Pre-Processing </font> </h2> 
 <p class="p-pad", align="justify"> <font color="black"> For standard machine learning problems, just download this python script <a href="PreProcess.zip"><u> ConvertData_standard</u></a> to convert the flat table into the input data format that Soft-Margin RFGB can take. <a href="PreProcess.zip"><u> ConvertData_standard</u></a> also contains a sample data set--heart disease data from <a href="https://archive.ics.uci.edu/ml/index.php"><u> UCI Machine Learning Repository.</u></a> Users can use this script to convert any data set from <a href="https://archive.ics.uci.edu/ml/index.php"><u> UCI Machine Learning Repository</u></a> by simply adding the variable names in the first row. </p> 
-<p class="p-pad", align="justify"> For relational data sets, please refer to <a href="http://pages.cs.wisc.edu/~tushar/rdnboost/doc.html"><u>Mode Guide</u></a> for more sophisticated designs of logic predicates. </font></p> 
+
 A sample usage is as below:
 
 <pre><code>$ python ConvertData_standard.py filename=PATH/TO/YOUR/DATA/DATA.csv \
@@ -93,6 +93,8 @@ A sample usage is as below:
 <p class="p-pad", align="justify"> The optional arguments are <font color="blue"><b> Discretize </b></font> and <font color="blue"><b> TestRatio </b></font>.</p> 
 <p class="p-pad", align="justify"> Use <font color="blue"><b> Discretize </b></font> if one wants to discretize the continuous-valued variables. There are three options: <b>i.</b> assign categorical values based on the thresholds given as a list; <b>ii. </b> categorize into N classes based on values by specifying ['value', Nclass] ;  <b> iii. </b> discretize into N bins based on sample quantiles by specifying ['quantile', Nclass]. If not given, numerical variables will be written out in their original value types. </p>
 <p class="p-pad", align="justify"> Use <font color="blue"><b> TestRatio </b></font> to specify how you want to split the data into training and test sets. If not assigned, all the samples will be written in the training data files. </p>
+
+<p class="p-pad", align="justify"> For relational data sets, please refer to <a href="http://pages.cs.wisc.edu/~tushar/rdnboost/doc.html"><u>Mode Guide</u></a> for more sophisticated designs of logic predicates. </font></p> 
 		
 <h2> <font color="black"> Run Soft-Margin RFGB </font> </h2>
 <p class="p-pad", align="justify"> <font color="black"> Here is a simple example on how to use the  <a href="SoftBoosting.jar"><u>Soft-Margin RFGB code</u></a>.</font></p>
