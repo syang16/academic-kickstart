@@ -35,7 +35,7 @@ tags = ["machine-learning","statistical-relational-learning", "cost-sensitive-le
 url_pdf = "https://shuoyang.netlify.com/publication/yang-14/yang-14.pdf"
 #url_slides = ""
 #url_video = ""
-url_code = "CostSensitiveLearningPackage.zip"
+url_code = "https://shuoyang.netlify.app/project/csl/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
