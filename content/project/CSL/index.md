@@ -85,14 +85,14 @@ The common approach for dealing with this problem is sampling approach, either s
 
 A sample usage is as below:
 
-<pre><code>$ python ConvertData_standard.py filename=PATH/TO/YOUR/DATA/DATA.csv \
+<pre><code>$ python ConvertStandardData.py filename=PATH/TO/YOUR/DATA/DATA.csv \
 &gt; target=TargetVariable \ 
 &gt; Discretize='feature1':[threshold list],'feature2':['value', Nclass],'feature3' ['quantile',Nclass] \ 
 &gt; TestRatio=0.1 </code></pre>
 
 <p class="p-pad", align="justify"> The optional arguments are <font color="blue"><b> Discretize </b></font> and <font color="blue"><b> TestRatio </b></font>.</p> 
 <p class="p-pad", align="justify"> Use <font color="blue"><b> Discretize </b></font> if one wants to discretize the continuous-valued variables. There are three options: <b>i.</b> assign categorical values based on the thresholds given as a list; <b>ii. </b> categorize into N classes based on values by specifying ['value', Nclass] ;  <b> iii. </b> discretize into N bins based on sample quantiles by specifying ['quantile', Nclass]. If not given, numerical variables will be written out in their original value types. </p>
-<p class="p-pad", align="justify"> Use <font color="blue"><b> TestRatio </b></font> to specify how you want to split the data into training and test sets. If not assigned, all the samples will be written in the training data files. </p>
+<p class="p-pad", align="justify"> Use <font color="blue"><b> TestRatio </b></font> to specify how you want to split the data into training and test sets. If not assigned, 80% of the samples will be assigned to the training and 20% to test. </p>
 
 <p class="p-pad", align="justify"> For relational data sets, please refer to <a href="http://pages.cs.wisc.edu/~tushar/rdnboost/doc.html"><u>Mode Guide</u></a> for more sophisticated designs of logic predicates. </font></p> 
 		
