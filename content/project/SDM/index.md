@@ -4,8 +4,8 @@
 # weight = 15  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Relational Continuous Time Bayesian Network"
-# subtitle = ""
+title = "Sequence Data Mining"
+subtitle = "Relational Continuous Time Bayesian Network"
   
 # Project title.
 title = "Sequence Data Mining"
