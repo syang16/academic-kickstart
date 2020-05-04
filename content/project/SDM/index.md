@@ -54,6 +54,6 @@ In this project, we consider the problem of predicting sequential events by lear
 Continuous Time Bayesian Networks (CTBN), on the other hand, models the time directly by assuming the probability for certain event to happen is an exponential function of time. So it can answer queries at any time point.
 
 Moreover, relations are widely existing among the trajectories of features from different objects. Take the following network as an example. The chance of getting type 2 diabetes increases with age, so its transition probability can be modeled with an exponential function of time. 
-it is also a hereditary disease, so the transition likelihood of a person’s diabetes status depends on the trajectory of his family members’ diabetes status. If a family member of the target object has been diagnosis with diabetes at time 2, then our belief in the transition probability of this individual’s diabetes status would have bigger transition parameter since this time point. And the solution for the structured data is the statistical relational models.
+it is also a hereditary disease, so the transition likelihood of a person’s diabetes status depends on the trajectory of his family members’ diabetes status. If a family member of the target object has been diagnosis with diabetes at time 2, then our belief in the transition probability of this individual’s diabetes status would have larger transition parameter from this time point on. And the solution for the structured data is the statistical relational models.
 
-<img src="Trajectory.png" width="330" height="300">
+<img src="Trajectory.png" width="600" height="400">
