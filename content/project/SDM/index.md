@@ -43,6 +43,7 @@ url_code = "https://shuoyang.netlify.app/project/sdm/"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
+preview_only = true
   # Caption (optional)
   #caption = ""
   
