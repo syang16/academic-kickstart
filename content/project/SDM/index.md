@@ -57,3 +57,8 @@ Moreover, relations are widely existing among the trajectories of features from 
 it is also a hereditary disease, so the transition likelihood of a person’s diabetes status depends on the trajectory of his family members’ diabetes status. If a family member of the target object has been diagnosis with diabetes at time 2, then our belief in the transition probability of this individual’s diabetes status would have larger transition parameter from this time point on. And the solution for the structured data is the statistical relational models.
 
 <img src="Trajectory.png" width="700" height="600">
+
+<h1>How to use this package?</h1>
+
+<h2> <font color="black"> The whole package can be downloaded <a href="RCTBNPackage.zip"> <u>here.</u></a> </font> </h2>
+		<p class="p-pad", align="justify"> <font color="black">The package includes a sample data set generated from the drug effect networks in <a href="https://www.cs.ucr.edu/~cshelton/papers/docs/ctbn.pdf"> <u>Nodelman's CTBN paper</u></a>, the RFGB code for learning RCTBNs and the code for calculating the metrics of evaluating the performance of learning algorithms. </font></p>
