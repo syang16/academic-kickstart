@@ -8,7 +8,7 @@ title = "Sequence Data Mining"
 subtitle = "Relational Continuous Time Bayesian Network"
   
 # Project title.
-title = "Sequence Data Mining"
+# title = "Sequence Data Mining"
 
 # Date this page was created.
 date = 2019-03-13T00:00:00
@@ -62,3 +62,7 @@ it is also a hereditary disease, so the transition likelihood of a person’s di
 
 <h2> <font color="black"> The whole package can be downloaded <a href="RCTBNPackage.zip"> <u>here.</u></a> </font> </h2>
 		<p class="p-pad", align="justify"> <font color="black">The package includes a sample data set generated from the drug effect networks in <a href="https://www.cs.ucr.edu/~cshelton/papers/docs/ctbn.pdf"> <u>Nodelman's CTBN paper</u></a>, the RFGB code for learning RCTBNs and the code for calculating the metrics of evaluating the performance of learning algorithms. </font></p>
+
+More details about the algorithm can be found in <a href="https://shuoyang.netlify.app/publication/yang-kkn-16/"> <u>[Yang et al. 2016].</u></a> Please use the following citation to acknowledge the contribution made by this package to your research. [^1]
+
+[^1]: Shuo Yang, Tushar Khot, Kristian Kersting and Sriraam Natarajan, Learning Continuous-Time Bayesian Networks in Relational Domains: A Non-Parametric Approach, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, AAAI 2016.
