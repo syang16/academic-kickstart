@@ -56,7 +56,7 @@ Continuous Time Bayesian Networks (CTBN), on the other hand, models the time dir
 Moreover, relations are widely existing among the trajectories of features from different objects. Take the following network as an example. The chance of getting type 2 diabetes increases with age, so its transition probability can be modeled with an exponential function of time. 
 it is also a hereditary disease, so the transition likelihood of a person’s diabetes status depends on the trajectory of his family members’ diabetes status. If a family member of the target object has been diagnosis with diabetes at time 2, then our belief in the transition probability of this individual’s diabetes status would have larger transition parameter from this time point on. And the solution for the structured data is the statistical relational models.
 
-<img src="Trajectory.png" width="700" height="600">
+<img src="Trajectory.png" width="800" height="700">
 
 <h1>How to use this package?</h1>
 
