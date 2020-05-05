@@ -50,6 +50,7 @@ url_code = "https://shuoyang.netlify.app/project/sdm/"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
+<div class="row-fluid spacing-top-bottom">
 In this project, we consider the problem of predicting sequential events by learning from relational trajectories with dinstinct temporal resolutions. 
 
 Most of the real-world events occur at their distinct paces, some events happen more frequently than others. However, for most of the dynamic models such as HMM, DBNs, or RNN, they model such dynamic process with constant interval between the time slices. So, in order to avoid missing any events along the trajectories, they need to model the system at the shortest possible interval. This leads to the increased computational cost when performing inference over time. 
