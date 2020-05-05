@@ -50,7 +50,7 @@ folder = "project"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "text-align: justify;"
  
  # CSS class.
  css_class = ""
