@@ -8,7 +8,7 @@
 # subtitle = ""
   
 # Project title.
-title = "Cost Sensitive Statistical Relational Learning"
+title = "Cost-sensitive Statistical Relational Learning"
 
 # Date this page was created.
 date = 2019-03-13T00:00:00
