@@ -37,7 +37,7 @@ interests = [
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Health Informatics"
-  institution = "Indiana University"
+  institution = "Indiana University-Bloomington"
   year = 2017
 
 [[education.courses]]
@@ -84,4 +84,4 @@ interests = [
 
 +++
 
-Shuo obtained her PhD degree from Indiana University in 2017. Her PhD research was conducted under the guidance of Prof. Sriraam Natarajan and mainly focuses on machine learning and its application to medical domains, including statistical relational learning, knowledge-based learning, cost-sensitive learning, SRL for sequential events prediction and SRL in hybrid domains. Her PhD thesis is titled <a href="https://arxiv.org/pdf/1811.00749.pdf"> <u>"Effective Learning of Probabilistic Models for Clinical Predictions from Longitudinal Data".</u></a> 
+Shuo obtained her PhD degree from Indiana University-Bloomington in 2017. Her PhD research was conducted under the guidance of Prof. Sriraam Natarajan and mainly focuses on machine learning and its application to medical domains, including statistical relational learning, knowledge-based learning, cost-sensitive learning, SRL for sequential events prediction and SRL in hybrid domains. Her PhD thesis is titled <a href="https://arxiv.org/pdf/1811.00749.pdf"> <u>"Effective Learning of Probabilistic Models for Clinical Predictions from Longitudinal Data".</u></a> 
