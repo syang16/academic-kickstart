@@ -50,5 +50,5 @@ url_pdf = "https://shuoyang.netlify.com/publication/yang-n-13/yang-n-13.pdf"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
-+++
+++
 
