@@ -11,8 +11,8 @@ subtitle = ""
 weight = 120
 +++
 reviewer for Journal <a href="https://www.sciencedirect.com/journal/knowledge-based-systems"> Knowledge-Based Systems </a> [^1] <br />
-reviewer for Journal Data Mining and Knowledge Discovery <br />
-reviewer for Journal of Artificial Intelligence Research <br />
+reviewer for Journal <a href="https://www.springer.com/journal/10618"> Data Mining and Knowledge Discovery </a> <br />
+reviewer for <a href ="https://www.jair.org/index.php/jair"> Journal of Artificial Intelligence Research </a> <br />
 PC member of ICLR 2020 <br />
 PC member of IJCAI 2020, 2019, 2018 <br />
 PC member of AAAI 2020 <br />
