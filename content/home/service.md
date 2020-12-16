@@ -10,7 +10,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 120
 +++
-reviewer for Journal <a "https://www.sciencedirect.com/journal/knowledge-based-systems"> Knowledge-Based Systems </a> [^1] <br />
+reviewer for Journal <a href="https://www.sciencedirect.com/journal/knowledge-based-systems"> Knowledge-Based Systems </a> [^1] <br />
 reviewer for Journal Data Mining and Knowledge Discovery <br />
 reviewer for Journal of Artificial Intelligence Research <br />
 PC member of ICLR 2020 <br />
