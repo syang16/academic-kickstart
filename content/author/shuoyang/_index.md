@@ -25,6 +25,7 @@ email = ""
 interests = [
   "Machine Learning",
   "Statistical Relational Learning",
+  "Temporal Models",
   "Health Events Prediction",
   "Recommendation System",
   "Online Advertising",
