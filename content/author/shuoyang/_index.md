@@ -37,7 +37,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Health Informatics"
+  course = "PhD in Informatics"
   institution = "Indiana University-Bloomington"
   year = 2017
 
