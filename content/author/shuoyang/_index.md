@@ -13,7 +13,7 @@ role = "Machine Learning Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "LinkedIn Corp.", url = "https://www.linkedin.com/" } ]
+organizations = [ { name = "LinkedIn Corp." } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include machine learning and its application in health and other real-world problems."
