@@ -74,7 +74,7 @@ interests = [
   [[social]]
   icon = "dblp"
   icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Shuo_Yang36"
+  link = "https://dblp.org/pid/78/1102-4.html"
 
 # [[social]]
  # icon = "github"
