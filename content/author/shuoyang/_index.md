@@ -70,6 +70,11 @@ interests = [
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Shuo_Yang36"
+  
+  [[social]]
+  icon = "dblp"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Shuo_Yang36"
 
 # [[social]]
  # icon = "github"
