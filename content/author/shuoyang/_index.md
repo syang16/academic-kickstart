@@ -49,12 +49,12 @@ interests = [
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:shuoyang@indiana.edu" or "#contact" for contact widget.
+#   form "mailto:dr.shuo.yang@gmail.com" or "#contact" for contact widget.
 
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:shuoyang@indiana.edu".
+  link = "#contact"  # For a direct email link, use "mailto:dr.shuo.yang@gmail.com".
 
 [[social]]
   icon = "linkedin"
