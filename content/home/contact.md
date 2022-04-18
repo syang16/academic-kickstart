@@ -16,6 +16,6 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-https://formspree.io/shuoyang.bian@gmail.com
+https://formspree.io/f/xvolwldk
 +++
 
