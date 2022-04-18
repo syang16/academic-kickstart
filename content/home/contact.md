@@ -10,12 +10,7 @@ subtitle = ""
 weight = 130
 
 # Automatically link email and phone?
-autolink = False
-
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
+autolink = false
 
 +++
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" 
