@@ -18,6 +18,7 @@ autolink = true
 #   2: formspree.io
 
 +++
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" 
 action="https://formspree.io/f/xvolwldk" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
