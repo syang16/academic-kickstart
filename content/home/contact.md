@@ -10,20 +10,25 @@ subtitle = ""
 weight = 130
 
 # Automatically link email and phone?
-autolink = false
+autolink = true
 
 +++
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" 
+action="https://formspree.io/f/xvolwldk" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <br/>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <br/>
+    <label for="email-address">Email Address</label>
+    <br/>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <br/>
+    <label for="message">Message</label>
+    <br/>
+    <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
+    <br/>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
 </form>
