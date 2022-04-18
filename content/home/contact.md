@@ -17,6 +17,7 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 
++++
 action="https://formspree.io/f/xvolwldk" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
@@ -29,5 +30,4 @@ action="https://formspree.io/f/xvolwldk" method="post">
   </fieldset>
   <input type="submit" value="Submit">
 </form>
-+++
 
